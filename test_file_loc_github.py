@@ -31,6 +31,7 @@ while counter < MAX_COUNTER:
 
 response = requests.get(api_url)
 
+
 if response.status_code == 200:
     print(response.text)
 #    pprint(response.text)
