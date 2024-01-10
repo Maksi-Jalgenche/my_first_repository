@@ -28,7 +28,6 @@ while counter < MAX_COUNTER:
     time.sleep(1)
     counter += 1
 
-
 # Получаем ответ на запрос
 response = requests.get(api_url)
 
