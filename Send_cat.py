@@ -12,6 +12,7 @@ ERROR_TEXT = 'Здесь должна быть картинка с котико�
 offset = -2
 counter = 0
 
+
 cat_response: requests.Response
 cat_link: str
 
