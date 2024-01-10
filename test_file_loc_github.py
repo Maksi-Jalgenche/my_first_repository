@@ -29,7 +29,7 @@ while counter < MAX_COUNTER:
     counter += 1
 
 
-
+# Получаем ответ на запрос
 response = requests.get(api_url)
 
 
