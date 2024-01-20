@@ -2,6 +2,7 @@ import requests
 import time
 from config import TOKEN
 
+
 API_URL = 'https://api.telegram.org/bot'
 BOT_TOKEN = TOKEN
 TEXT = 'Ура! Классный апдейт !'
